@@ -12,7 +12,6 @@ INSERT INTO `authors` VALUES (1,'Mahmoud Ahmed'),(2,'sayed'),(3,'ali');
 
 UNLOCK TABLES;
 
-
 DROP TABLE IF EXISTS `book`;
 
 CREATE TABLE `book` (
